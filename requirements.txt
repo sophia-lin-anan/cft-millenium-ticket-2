@@ -1,0 +1,5 @@
+openai>=3.26.0
+openai-agents
+langgraph
+claude-agent-sdk
+python-dotenv

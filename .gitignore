@@ -1,0 +1,12 @@
+# Local secrets. Keep the example file tracked.
+.env
+.env.*
+!.env.example
+
+# Local Python state.
+.venv/
+__pycache__/
+*.py[cod]
+
+# Source deliverable kept locally for reference.
+Sophia Lin _ Millenium Deliverable 10_20.pdf
